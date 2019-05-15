@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="one" label="one" language="en" table="var__m_sys_hub_action_input_234ceefbdb5d3300f4cbd8a1cf9619ed">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>one</element>
+            <help/>
+            <hint/>
+            <label>one</label>
+            <language>en</language>
+            <name>var__m_sys_hub_action_input_234ceefbdb5d3300f4cbd8a1cf9619ed</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>matt.wilkofsky@snc</sys_created_by>
+            <sys_created_on>2019-05-15 22:15:48</sys_created_on>
+            <sys_id>e34ceefbdb5d3300f4cbd8a1cf9619f4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>one</sys_name>
+            <sys_package display_value="PRB3" source="x_snc_prb3">ad0caafbdb5d3300f4cbd8a1cf9619f4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="PRB3">ad0caafbdb5d3300f4cbd8a1cf9619f4</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_action_input_234ceefbdb5d3300f4cbd8a1cf9619ed_one_en</sys_update_name>
+            <sys_updated_by>matt.wilkofsky@snc</sys_updated_by>
+            <sys_updated_on>2019-05-15 22:15:48</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
